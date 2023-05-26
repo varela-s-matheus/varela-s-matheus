@@ -15,12 +15,13 @@ I'm Matheus Varela, a student of Systems Development Analysis at Senai, Blumenau
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varela-s-matheus&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 -->
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=varela-s-matheus&theme=gotham)
+<!-- ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=varela-s-matheus&theme=gotham)
+ -->
 
-
-<!-- <p align="center"> Working...
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=varela-s-matheus&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p> -->
+  <br>Working on it
+</p>
 
 
 ### Main skills:
