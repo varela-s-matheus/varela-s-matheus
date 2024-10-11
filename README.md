@@ -4,8 +4,11 @@
 
 <h3 align="center">-- About me --</h3>
   
-<p align="center">
-I'm Matheus Varela, a student of Systems Development Analysis at Senai, Blumenau-SC. Currently, I am working hard to study and learn in order to be prepared for the job market. I'm searching for an opportunity to change my career and grow into a professional developer.
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;I'm a Full Stack developer passionate about technology and innovation, with a degree in Systems Analysis and Development. With every project and challenge, I have been improving my knowledge and skills, from HTML, CSS, SCSS, and JavaScript to application development using TypeScript, Angular, Material UI, Java, Node.js, PostgreSQL, SQL Server, MySQL, Git, and GitHub. I work dynamically, with a strong foundation in generating efficient solutions, in addition to experience in object-oriented programming and web development. My journey, whether in professional or personal projects, is marked by the continuous pursuit of new skills and the desire to add value wherever I am. 
+</p>
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;I am currently pursuing a degree in Software Engineering because I believe that technology has the power to transform realities. I am always looking for opportunities to learn, evolve, and contribute to the success of teams and companies.
 </p>
 
 ### Main skills:
