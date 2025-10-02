@@ -48,9 +48,4 @@
  <img align="center" src="https://img.shields.io/badge/-MatheusVarela-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 
-<div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{varela-s-matheus}/count.svg" /></p> 
-<br></div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1572B6&height=120&section=footer"/>
