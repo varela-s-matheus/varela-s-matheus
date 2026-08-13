@@ -20,6 +20,10 @@
 ![C#](https://img.shields.io/badge/-CSharp-0D1117?style=flat&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-0D1117?style=flat&logo=postgresql&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=flat&logo=mysql&labelColor=0D1117)&nbsp;
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-0D1117?style=flat&logo=microsoftsqlserver&logoColor=CC2927&labelColor=0D1117)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-0D1117?style=flat&logo=dotnet&logoColor=512BD4&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker&logoColor=2496ED&labelColor=0D1117)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=flat&logo=kubernetes&logoColor=326CE5&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
@@ -29,7 +33,6 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=flat&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github&labelColor=0D1117)&nbsp;
-![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=React&logoColor=45a5e6&labelColor=0D1117)&nbsp;
 
 ## Featured Projects
 
@@ -38,7 +41,7 @@
 | **MedTech** — healthcare platform for clinics, doctors and patient scheduling | Java · Spring Boot · Angular · TypeScript | [Back-end](https://github.com/varela-s-matheus/MedTech--Back-end) · [Front-end](https://github.com/varela-s-matheus/MedTech--Front-end) |
 | **TechNote** — web app for creating and managing notes/tasks | Java · Spring Boot · Angular · TypeScript | [Back-end](https://github.com/varela-s-matheus/TechNote--Back-end) · [Front-end](https://github.com/varela-s-matheus/TechNote--Front-end) |
 | **LiveConnect** — real-time web chat application | JavaScript · WebSocket | [Repo](https://github.com/varela-s-matheus/LiveConnect) |
-| **MoreEvents** — ticket sales and event management platform | HTML · CSS · JavaScript | [Repo](https://github.com/varela-s-matheus/MoreEvents) · [Live demo](https://more-events.vercel.app) |
+| **MoreEvents** — ticket sales and event management platform | HTML · CSS · JavaScript | [Repo](https://github.com/varela-s-matheus/MoreEvents) |
 
 ## &nbsp;GitHub Analytics
 <p align="left">
