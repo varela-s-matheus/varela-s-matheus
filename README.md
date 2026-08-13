@@ -5,10 +5,16 @@
 <h3 align="center">-- About me --</h3>
 
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;I'm a Full Stack developer passionate about technology and innovation, with a degree in Systems Analysis and Development. With every project and challenge, I have been improving my knowledge and skills, from HTML, CSS, SCSS, and JavaScript to application development using TypeScript, Angular, Material UI, Java, Node.js, PostgreSQL, SQL Server, MySQL, Git, and GitHub. I work dynamically, with a strong foundation in generating efficient solutions, in addition to experience in object-oriented programming and web development. My journey, whether in professional or personal projects, is marked by the continuous pursuit of new skills and the desire to add value wherever I am.
+&nbsp;&nbsp;&nbsp;&nbsp;Full-Stack Developer with experience building and maintaining web applications across Java, C#, Angular, and TypeScript, backed by relational databases such as SQL Server, PostgreSQL, and MySQL.
 </p>
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;I am currently pursuing a degree in Software Engineering because I believe that technology has the power to transform realities. I am always looking for opportunities to learn, evolve, and contribute to the success of teams and companies.
+&nbsp;&nbsp;&nbsp;&nbsp;I've worked across the full lifecycle of production systems, from implementing features and fixing bugs on a live legal-tech platform, to building internal tools for a German company where I collaborated directly with an international technology team and local stakeholders across time zones.
+</p>
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;Continuous learning is part of how I work: I've completed several courses covering Docker, Kubernetes, microservices, and cloud fundamentals, keeping my stack current with what production teams need. I'm also currently pursuing a Bachelor's degree in Software Engineering.
+</p>
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;Conversational in English (B2) and open to remote opportunities with international teams. You'll find my project history and code samples below.
 </p>
 
 ### Main skills:
