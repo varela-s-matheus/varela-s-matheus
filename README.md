@@ -42,7 +42,7 @@
 
 ## &nbsp;GitHub Analytics
 <p align="left">
-  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=varela-s-matheus&show_icons=true&theme=tokyonight" alt="Matheus Varela github stats"/>
+  <img width="100%" src="https://ghchart.rshah.org/1572B6/varela-s-matheus" alt="Matheus Varela contribution graph"/>
 </p>
 
 ## Contact
